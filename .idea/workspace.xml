@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c488fb-fdf6-44cb-8f9d-aa1a74d15839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32c488fb-fdf6-44cb-8f9d-aa1a74d15839" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,6 +78,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="223" y="4" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1619099854316" />
+    <state x="140" y="38" key="SettingsEditor" timestamp="1619101952724">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="140" y="38" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1619101952724" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1619099445924">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
